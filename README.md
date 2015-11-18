@@ -1,4 +1,4 @@
 # Sjsu_Map
- Search different buildings in SJSU Campus
- Get current location in SJSU
- Get distance and time reach information
+ 1. Search different buildings in SJSU Campus
+ 2. Get current location in SJSU
+ 3. Get distance and time reach information
